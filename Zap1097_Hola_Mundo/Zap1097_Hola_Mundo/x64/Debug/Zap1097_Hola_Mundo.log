@@ -1,2 +1,4 @@
 ﻿  Zap1097_Hola_Mundo.cpp
+C:\Users\User\Desktop\Tareas\GitHub\Fundamentos_Progra_Zap1097\Zap1097_Hola_Mundo\Zap1097_Hola_Mundo\Zap1097_Hola_Mundo.cpp(83,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\Tareas\GitHub\Fundamentos_Progra_Zap1097\Zap1097_Hola_Mundo\Zap1097_Hola_Mundo\Zap1097_Hola_Mundo.cpp(26,10): warning C4101: 'esVerdadero': variable local sin referencia
   Zap1097_Hola_Mundo.vcxproj -> C:\Users\User\Desktop\Tareas\GitHub\Fundamentos_Progra_Zap1097\Zap1097_Hola_Mundo\x64\Debug\Zap1097_Hola_Mundo.exe
